@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1540340055 source:c:\users\mi pc\desktop\trabajo final\src\jugador.cpp
+	"jugador.h"
+
+1540339394 source:c:\users\mi pc\desktop\trabajo final\src\objetos.cpp
+	"objetos.h"
+
+1540339387 c:\users\mi pc\desktop\trabajo final\include\objetos.h
+	"jugador.h"
+
+1540339969 c:\users\mi pc\desktop\trabajo final\include\jugador.h
+
+1540339706 source:c:\users\mi pc\desktop\trabajo final\main.cpp
+	<iostream>
+
+1541648740 source:c:\users\mi pc\desktop\trabajofinal\src\jugador.cpp
+
+1541649011 c:\users\mi pc\desktop\trabajofinal\include\jugador.h
+	<iostream>
+
+1541649018 source:c:\users\mi pc\desktop\trabajofinal\main.cpp
+	<iostream>
+	"jugador.h"
+	"objetos.h"
+
+1541649375 source:c:\users\mi pc\desktop\trabajofinal\src\objetos.cpp
+	<iostream>
+	"jugador.h"
+
+1541371582 c:\users\mi pc\desktop\trabajofinal\include\objetos.h
+	"jugador.h"
+
+1541648742 source:h:\todo c++\trabajofinal\src\jugador.cpp
+
+1541649376 source:h:\todo c++\trabajofinal\src\objetos.cpp
+	<iostream>
+	"jugador.h"
+
+1541649012 h:\todo c++\trabajofinal\include\jugador.h
+	<iostream>
+
+1542936302 source:h:\todo c++\trabajofinal\src\arreglojugador.cpp
+
+1543013382 source:f:\todo c++\trabajofinal\main.cpp
+	<iostream>
+	"jugador.h"
+	"objetos.h"
+	"arreglojugador.h"
+	"random"
+
+1543012990 f:\todo c++\trabajofinal\include\jugador.h
+	<iostream>
+	"elementos.h"
+
+1543013426 f:\todo c++\trabajofinal\include\objetos.h
+	"jugador.h"
+	"carta.h"
+
+1542936488 f:\todo c++\trabajofinal\include\arreglojugador.h
+	<iostream>
+	"jugador.h"
+
+1542936302 source:f:\todo c++\trabajofinal\src\arreglojugador.cpp
+
+1541648742 source:f:\todo c++\trabajofinal\src\jugador.cpp
+
+1541649376 source:f:\todo c++\trabajofinal\src\objetos.cpp
+	<iostream>
+	"jugador.h"
+
+1543012182 f:\todo c++\trabajofinal\include\carta.h
+	"random"
+	<cstdlib>
+	<iostream>
+
+1543014172 f:\todo c++\trabajofinal\include\elementos.h
+	"carta.h"
+	"objetos.h"
+
+1543289810 source:i:\todo c++\trabajofinal\main.cpp
+	<iostream>
+	"elementos.h"
+	"objetos.h"
+	"carta.h"
+	"arreglojugador.h"
+
+1543270096 i:\todo c++\trabajofinal\include\jugador.h
+
+1543326450 i:\todo c++\trabajofinal\include\elementos.h
+	"carta.h"
+	"arreglojugador.h"
+	"objetos.h"
+
+1543012182 i:\todo c++\trabajofinal\include\carta.h
+	"random"
+	<cstdlib>
+	<iostream>
+
+1543290782 i:\todo c++\trabajofinal\include\objetos.h
+	"carta.h"
+
+1543325796 i:\todo c++\trabajofinal\include\arreglojugador.h
+	<iostream>
+
+1542936302 source:i:\todo c++\trabajofinal\src\arreglojugador.cpp
+
+1541648742 source:i:\todo c++\trabajofinal\src\jugador.cpp
+
+1543190036 source:i:\todo c++\trabajofinal\src\objetos.cpp
+
